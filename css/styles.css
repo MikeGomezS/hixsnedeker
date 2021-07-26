@@ -590,6 +590,8 @@ h6 {
 /*--------------- project page --------------- */
 
 .img_mapa-proyect{
+    width: 75%;
+    margin: auto;
     filter: grayscale(75%);
     transition: all 1s ease;
 }
